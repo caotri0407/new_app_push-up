@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="background.png">background.png</file>
+        <file alias="camera_icon.png">camera_icon.png</file>
+        <file alias="file_icon.png">file_icon.png</file>
+        <file alias="LOGO.ico">LOGO.ico</file>
+        <file alias="pause_icon.png">pause_icon.png</file>
+        <file alias="resume_icon.png">resume_icon.png</file>
+        <file alias="right_icon.png">right_icon.png</file>
+        <file alias="stop_icon.png">stop_icon.png</file>
+        <file alias="total_icon.png">total_icon.png</file>
+        <file alias="wrong_icon.png">wrong_icon.png</file>
+    </qresource>
+</RCC>

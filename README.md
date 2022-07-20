@@ -6,6 +6,7 @@ who are injured beginners in sports The project is implemented on a small scale 
 to help those starting out later to understand the importance of human action and contribute to the development of the data set is still extremely.
 
 ## GUI_OF_APP
+My application is deployed through two forms, video analysis through each "frame" and live action via webcam.
 ![push-up_demo](https://user-images.githubusercontent.com/85697315/180020713-8c981e3d-61ca-4f51-a64b-6b97cc693c51.png)
 ### DATASET and MODEL
 Download pretrained models at [here](https://drive.google.com/drive/u/0/folders/1SHuN5DJgEalW3lgJzRJs-yUP62KvKXAN) and replace the existed models file in /models.

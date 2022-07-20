@@ -11,7 +11,7 @@ My application is deployed through two forms, video analysis through each "frame
 ![push-up_demo](https://user-images.githubusercontent.com/85697315/180020713-8c981e3d-61ca-4f51-a64b-6b97cc693c51.png)
 ### DATASET and MODEL
 Download pretrained models at [here](https://drive.google.com/drive/u/0/folders/1SHuN5DJgEalW3lgJzRJs-yUP62KvKXAN) and replace the existed models file in /models.
-You can also use our self-built datasets through 15% internet and 85% capture by smartphone and grow them [here](https://drive.google.com/drive/u/0/folders/1eKqKVRE_oCc-d0IE9Rc5kfJNIhZ8QXAa)
+You can also use our self-built datasets more than 3600 images through 15% internet and 85% capture by smartphone and grow them [here](https://drive.google.com/drive/u/0/folders/1eKqKVRE_oCc-d0IE9Rc5kfJNIhZ8QXAa)
 #### RUN_APP
 Run demo app by: start_app.py
 ##### NOTE:

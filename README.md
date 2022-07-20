@@ -3,7 +3,7 @@ Based on the data we observed and looked at, the proportion of people who were o
 Along with the bad effects of Covid-19 in the past time. We decided to conduct this project to analyze and develop human behavior and 
 activities in order to improve exercise ability, increase resistance and most importantly, reduce injury and muscle damage for those 
 who are injured beginners in sports The project is implemented on a small scale and the dataset is not yet intuitive but our desire is
-to help those starting out later to understand the importance of human action and contribute to the development of the data set is still extremely.
+to help those starting out later to understand the importance of human action and contribute to the development of the data set is still extremely scarce.
 
 ## GUI_OF_APP
 My application is deployed through two forms, video analysis through each "frame" and live action via webcam.

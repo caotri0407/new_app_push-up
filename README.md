@@ -14,8 +14,8 @@ Download pretrained models at [here](https://drive.google.com/drive/u/0/folders/
 
 You can also use our self-built datasets more than 3600 images through 15% internet and 85% capture by smartphone and grow them [here](https://drive.google.com/drive/u/0/folders/1eKqKVRE_oCc-d0IE9Rc5kfJNIhZ8QXAa)
 #### RUN_APP
-The first, you must install some framework to deploy it in file /new_gui at ([requirements.txt](https://github.com/caotri0407/new_app_push-up/files/9166251/requirements.txt)
-) after that  Run demo app by: start_app.py 
+The first, you must install some framework to deploy it in file /new_gui at [requirements.txt](https://github.com/caotri0407/new_app_push-up/files/9166251/requirements.txt)
+ after that  Run demo app by: start_app.py 
 
 ##### NOTE:
 We are in the process of completing play_button and pause_button. You can also deloy it on your project.

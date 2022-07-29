@@ -4,6 +4,8 @@ Along with the bad effects of Covid-19 in the past time. We decided to conduct t
 activities in order to improve exercise ability, increase resistance and most importantly, reduce injury and muscle damage for those 
 who are injured beginners in sports The project is implemented on a small scale and the dataset is not yet intuitive but our desire is
 to help those starting out later to understand the importance of human action and contribute to the development of the data set is still extremely scarce.
+My report of project: [FILE PDF] [AIP391_Report_Team 1 (3).pdf](https://github.com/caotri0407/new_app_push-up/files/9223126/AIP391_Report_Team.1.3.pdf)
+
 
 ## GUI_OF_APP
 My application is deployed through two forms, video analysis through each "frame" and live action via webcam.
